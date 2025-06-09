@@ -26,7 +26,7 @@ Imagine a dish so rich and flavorful, it transports you straight to your favorit
 - 2 teaspoons garam masala
 - 1 teaspoon turmeric
 - 1 teaspoon ground cumin
-- 1 teaspoon red chili powder
+- 1 teaspoon red chili powder (optional)
 - 1 teaspoon salt
 
 ### For the Sauce:
@@ -39,8 +39,7 @@ Imagine a dish so rich and flavorful, it transports you straight to your favorit
 - 1.5 teaspoons garam masala
 - 1 teaspoon ground coriander
 - 14 oz (400g) crushed tomatoes
-- 1 teaspoon red chili powder (adjust to taste)
-- 1.25 cups heavy cream
+- 1 cup heavy cream
 - 1 tablespoon sugar
 - 1/2 teaspoon kasoori methi (dried fenugreek leaves)
 - Salt to taste
