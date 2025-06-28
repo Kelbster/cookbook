@@ -81,5 +81,3 @@ Try these delicious variations on the basic scone recipe:
 - Store in an airtight container at room temperature for up to 2 days
 - Refrigerate for up to 1 week
 - Freeze for up to 3 months (thaw overnight in refrigerator or at room temperature for a few hours)
-
-*Recipe credit: USA WEEKEND columnist Pam Anderson* 

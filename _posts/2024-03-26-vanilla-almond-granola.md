@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Vanilla Almond Granola"
-categories: [breakfast, snacks]
+categories: [ Breakfast, Snacks]
 image: https://plus.unsplash.com/premium_photo-1673816475398-4877871a584b?q=80&w=1587&auto=format&fit=crop
 tags: [granola, breakfast, healthy]
 description: "A simple 8-ingredient homemade granola recipe that's naturally sweetened with maple syrup and flavored with vanilla and almond extracts."

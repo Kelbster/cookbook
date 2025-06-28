@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Light and Crispy Waffles"
-categories: [breakfast, brunch]
+categories: [ Breakfast, Brunch]
 image: https://images.unsplash.com/photo-1647667050108-c2082398a078?q=80&w=1673&auto=format&fit=crop
 tags: [waffles, breakfast]
 description: "The secret to these light and crispy waffles is a combination of cornstarch and beaten egg whites, creating a perfectly crispy exterior while staying fluffy inside."

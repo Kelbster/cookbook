@@ -2,7 +2,7 @@
 layout: post
 title: "The Ultimate Ackee and Saltfish"
 date: 2024-03-26
-categories: [jamaican, breakfast]
+categories: [Jamaican, Breakfast]
 image: assets/images/saltfish-ackee.jpg
 description: "Jamaica's national dish featuring tender salt cod and creamy ackee, sautéed with aromatic vegetables and spices for a delicious traditional breakfast."
 time: "45 minutes"
